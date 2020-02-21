@@ -1,0 +1,2 @@
+include ':app', ':4DataStructure', ':4SwardToOffer', ':4LeetCode'
+rootProject.name='Algorithms'
